@@ -12,11 +12,12 @@ Test Project
 ## 使用例
 `abc def 123`
 
-`
-1: a  
-2: b  
-3: c  
-`
+	class Test {
+		foo ():void {
+			return false;
+		}
+	}
+	
 
 # 引用
 
