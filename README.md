@@ -14,7 +14,7 @@ Test Project
 
 ```typescript
 class Test {
-	foo ():void {
+	foo ():boolean {
 		return false;
 	}
 }
