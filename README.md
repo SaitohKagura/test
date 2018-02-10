@@ -13,11 +13,11 @@ Test Project
 `abc def 123`
 
 ```typescript
-	class Test {
-		foo ():void {
-			return false;
-		}
+class Test {
+	foo ():void {
+		return false;
 	}
+}
 ```
 
 # 引用
