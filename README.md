@@ -9,6 +9,11 @@ Test Project
 * README.md記述練習
 * README.md記述練習
 
+## チェックボックス
+- [x] 項目A
+- [ ] 項目B
+- [ ] 項目C
+
 ## 使用例
 `abc def 123`
 
